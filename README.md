@@ -13,3 +13,6 @@ Hi this is repository for my STATS 220 projects :raised_hands:
 3. [LE SSERAFIM - Swan Song](https://www.youtube.com/watch?v=eNxb2wt11sM)
 
 hopefully have fun in the class :fire: 
+
+![](https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif?cid=790b76113gc1zo8arvuk07ni50su813j5icegavt3q0m5a5r&ep=v1_gifs_search&rid=giphy.gif)
+

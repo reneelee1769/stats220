@@ -1,4 +1,4 @@
-# Stats220
+# stats220
 
 Hi this is repository for my STATS 220 projects :raised_hands:
 
